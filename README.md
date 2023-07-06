@@ -1,2 +1,2 @@
-# Retail_store_analysis_PowerBI
-Power BI project using retail sales data 
+# Retail_store_analysis_Excel
+Excel Dashboard using retail sales data 
